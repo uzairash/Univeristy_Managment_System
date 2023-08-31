@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(9,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1451,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1612,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1686,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1909,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1512): warning C4715: 'Under_Graduate::search_Student_by_Unpaid': not all control paths return a value
+C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\OOP Final Project\Source.cpp(1972): warning C4715: 'Post_Graduate::search_PG_Student_by_Unpaid': not all control paths return a value
+  OOP Final Project.vcxproj -> C:\Users\Uzair\OneDrive - Higher Education Commission\2nd Semester\OOP\OOP Final Project\x64\Debug\OOP Final Project.exe
